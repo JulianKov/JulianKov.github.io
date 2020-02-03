@@ -1,6 +1,6 @@
 # JulianKov.github.io
 
-**[My CV](https://juliankov.github.io/rsschool-codejam1-cv/)** (html+css)
+**[My CV](https://juliankov.github.io/CV/)** (html+css)
 
 **[Ghost Host](https://juliankov.github.io/markup-1/)** (html+css)
 
